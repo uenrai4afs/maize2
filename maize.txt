@@ -1,0 +1,8 @@
+0 fall armyworm
+1 grasshoper
+2 healthy
+3 leaf beetle
+4 leaf blight
+5 leaf spot
+6 non type
+7 streak virus
